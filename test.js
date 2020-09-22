@@ -14,4 +14,4 @@ assert(scheduleOverlaps(
 ));
 
 // overlaps with offset
-assert(scheduleOverlaps({ hour: 3, minute: 14 }, new Date('2020-09-23T09:14:30Z')));
+assert(scheduleOverlaps({ hour: 3, minute: 14 }, new Date('2020-09-23T08:14:30Z'), 300));

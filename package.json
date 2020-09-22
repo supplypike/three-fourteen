@@ -1,0 +1,19 @@
+{
+  "name": "three-fourteen",
+  "version": "0.1.0",
+  "description": "A simple in-memory function scheduler",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supplypike/three-fourteen.git"
+  },
+  "author": "Evan Black <evan@supplypike.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supplypike/three-fourteen/issues"
+  },
+  "homepage": "https://github.com/supplypike/three-fourteen#readme"
+}
