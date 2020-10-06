@@ -10,4 +10,4 @@ interface Entry {
   };
 }
 
-export function initialize(paramEntries: Entry[]): void;
+export function initialize(paramEntries: Entry[], getOffset?: (date: Date) => number): void;

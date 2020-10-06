@@ -1,6 +1,6 @@
 {
   "name": "three-fourteen",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A simple in-memory function scheduler",
   "main": "index.js",
   "scripts": {
